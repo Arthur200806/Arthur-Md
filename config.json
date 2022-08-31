@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6283156715878@s.whatsapp.net"],
+"ownerName": ["Arthur"],
+"botName": "Arthur-Md",
+"packname": "Arthur-Md",
+"author": "© Arthur",
+"sessionName": "session",
+"pathimg": "./media/Bilek.jpg",
+
+"medsos": {
+"youtube": "https://youtube.com/c/Jokowi",
+"instagram": "https://instagram.com/Reihan_Arthur"
+},
+
+"donasi": {
+"saweria": "https://saweria.co/ArthurBilek",
+"dana": "083156715878",
+"AN_dana": "Arthur",
+"gopay": "083156715878",
+"AN_gopay": "Arthur"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
